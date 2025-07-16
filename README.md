@@ -1,2 +1,2 @@
 # Fraudulent_Claim_Detection_PrabhaM_KrishnaM
-Fraudulent_Claim_Detection_PrabhaM_KrishnaM
+#Repo consists of Fraudulent Claim Detection_PrabhaM_KrishnaM.pdf and Fraudulent Claim Detection_PrabhaM_KrishnaM.ipynb
